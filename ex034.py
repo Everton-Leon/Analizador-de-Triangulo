@@ -3,7 +3,7 @@ print('-=-' * 20)
 print('Analizador de Triângulos')
 print('-=-' * 20)
 
-# coletnado dados do usuario
+# coletando dados do usuario
 r1 = float(input('Comprimento 1: '))
 r2 = float(input('Comprimento 2: '))
 r3 = float(input('Comprimento 3: '))
